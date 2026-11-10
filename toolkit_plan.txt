@@ -1,0 +1,79 @@
+PROJECT PLAN: STUDENT MINI MANAGEMENT TOOLKIT
+
+1. PROJECT TITLE
+
+Student Mini Management Toolkit
+
+2. PROJECT DESCRIPTION
+
+This project is about creating a simple student management program using Python. The program will help users keep student information, calculate marks and check registered student records.
+
+Users will be able to select different activities from a menu.
+
+3. TOOLS AND THEIR FUNCTIONS
+
+TOOL 1: STUDENT REGISTRATION
+
+This tool allows users to enter a student's ID, name and course. The details will be saved in a list for future viewing during the program.
+
+Concepts used:
+- Variables
+- Input and output
+- Lists
+- For loops
+- Conditionals
+- F-strings
+
+TOOL 2: STUDENT MARKS CALCULATOR
+
+This tool allows users to enter a student's name and marks. It will calculate the student's grade and show whether the student has passed or failed.
+
+Concepts used:
+- Variables
+- Input and output
+- Arithmetic operations
+- If, elif and else statements
+- F-strings
+
+TOOL 3: STUDENT RECORDS VIEWER
+
+This tool displays the details of students who have been registered. It uses a loop to go through the student list and show their information.
+
+Concepts used:
+- Lists
+- For loops
+- Conditionals
+- F-strings
+
+4. EXACT MENU TEXT
+
+Welcome! Manage your student activities.
+
+1. Register a Student
+2. Calculate Student Marks
+3. View Student Records
+4. Quit
+
+Enter your choice (1-4):
+
+5. PROGRAM FLOW
+
+- Start the program with a welcome message.
+- Display the main menu with the available options.
+- Ask the user to enter a menu choice.
+- Use if, elif and else statements to select the correct tool.
+- Run the tool selected by the user.
+- Return to the menu after the tool finishes.
+- Display a polite message if the user enters an invalid choice.
+- Stop the program when the user selects Quit.
+- Display a friendly goodbye message.
+
+6. EXPECTED RESULTS
+
+The expected result is a working Python application with three student management tools. Users should be able to register students, calculate grades and view student records.
+
+The project will demonstrate the use of variables, lists, loops, conditionals, functions, comments and f-strings.
+
+7. CONCLUSION
+
+This project will help me improve my Python programming skills by applying what I have learned to create a useful student management application. It will also give me more practice in writing and understanding Python code.
